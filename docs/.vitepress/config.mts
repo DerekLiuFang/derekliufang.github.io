@@ -26,6 +26,10 @@ export default defineConfig({
           { text: "react + vite搭建脚手架", link: "/reactjs-stack/react-vite" },
         ],
       },
+      {
+        text: "Docker",
+        items: [{ text: "Docker简介", link: "/docker-stack/index" }],
+      },
     ],
 
     socialLinks: [
