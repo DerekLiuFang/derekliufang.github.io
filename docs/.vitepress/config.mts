@@ -30,6 +30,12 @@ export default defineConfig({
         text: "Docker",
         items: [{ text: "Docker简介", link: "/docker-stack/index" }],
       },
+      {
+        text: "Vitepress",
+        items: [
+          { text: "vitepress + github搭建博客", link: "/vitepress-blog/index" },
+        ],
+      },
     ],
 
     socialLinks: [
