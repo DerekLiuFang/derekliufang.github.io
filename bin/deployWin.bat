@@ -5,4 +5,4 @@ git init
 git add -A
 git commit -m "auto construct blog"
 
-git push -f https://github.com/DerekLiuFang/leofrank.github.io.git main:gh-pages
+git push -f git@github.com:DerekLiuFang/leofrank.github.io.git master:gh-pages
