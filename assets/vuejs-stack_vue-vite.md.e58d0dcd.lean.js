@@ -1,0 +1,1 @@
+import{_ as e,o as t,c as a}from"./chunks/framework.e51e4293.js";const _=JSON.parse('{"title":"","description":"","frontmatter":{},"headers":[],"relativePath":"vuejs-stack/vue-vite.md","filePath":"vuejs-stack/vue-vite.md"}'),s={name:"vuejs-stack/vue-vite.md"};function c(r,o,n,i,v,p){return t(),a("div")}const d=e(s,[["render",c]]);export{_ as __pageData,d as default};

@@ -1,0 +1,1 @@
+import{_ as t,o as e,c as a}from"./chunks/framework.e51e4293.js";const m=JSON.parse('{"title":"","description":"","frontmatter":{},"headers":[],"relativePath":"reactjs-stack/react-vite.md","filePath":"reactjs-stack/react-vite.md"}'),c={name:"reactjs-stack/react-vite.md"};function r(s,o,n,i,p,_){return e(),a("div")}const f=t(c,[["render",r]]);export{m as __pageData,f as default};
