@@ -4,15 +4,15 @@ layout: home
 
 hero:
   name: "Leo.Frank的博客"
-  text: "The leo.frank study notes."
+  text: "风起于青萍之末"
   tagline: 一起探索前端的无限可能
   actions:
     - theme: brand
       text: 开始阅读
       link: /vuejs-stack/vue-vite
     - theme: alt
-      text: API Examples
-      link: /api-examples
+      text: 我的Github
+      link: https://github.com/DerekLiuFang/leofrank.github.io
 
 features:
   - title: Feature A
