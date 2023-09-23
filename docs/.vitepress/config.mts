@@ -24,16 +24,27 @@ export default defineConfig({
         text: "React.js",
         items: [
           { text: "react + vite搭建脚手架", link: "/reactjs-stack/react-vite" },
+          { text: "next.js", link: "/reactjs-stack/nextjs" },
         ],
       },
       {
         text: "Docker",
-        items: [{ text: "Docker简介", link: "/docker-stack/index" }],
+        items: [
+          { text: "Docker基础", link: "/docker-stack/1-docker-basic" },
+          { text: "Docker File", link: "/docker-stack/docker-file" },
+        ],
       },
       {
         text: "Vitepress",
         items: [
           { text: "vitepress + github搭建博客", link: "/vitepress-blog/index" },
+        ],
+      },
+      {
+        text: "Examples",
+        items: [
+          { text: "markdown example", link: "/markdown-examples" },
+          { text: "api example", link: "/api-examples" },
         ],
       },
     ],
